@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PythonSelFramework.tests.test_HomePage.pageObject" />
+          <option value="PythonSelFramework.tests.test_HomePage.utilities" />
+          <option value="PythonSelFramework.tests.test_HomePage.TestData" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

@@ -4,3 +4,15 @@
 2023-07-05 15:18:45,775 :INFO : test_e2e :Nokia Edge
 2023-07-05 15:18:45,792 :INFO : test_e2e :Blackberry
 2023-07-05 15:18:46,038 :INFO : test_e2e :entering country name as ind
+2023-07-05 17:41:00,456 :INFO : test_e2e :getting all the card titles
+2023-07-05 17:41:00,502 :INFO : test_e2e :iphone X
+2023-07-05 17:41:00,516 :INFO : test_e2e :Samsung Note 8
+2023-07-05 17:41:00,532 :INFO : test_e2e :Nokia Edge
+2023-07-05 17:41:00,548 :INFO : test_e2e :Blackberry
+2023-07-05 17:41:00,798 :INFO : test_e2e :entering country name as ind
+2023-07-05 17:45:26,579 :INFO : test_e2e :getting all the card titles
+2023-07-05 17:45:26,635 :INFO : test_e2e :iphone X
+2023-07-05 17:45:26,647 :INFO : test_e2e :Samsung Note 8
+2023-07-05 17:45:26,661 :INFO : test_e2e :Nokia Edge
+2023-07-05 17:45:26,675 :INFO : test_e2e :Blackberry
+2023-07-05 17:45:26,921 :INFO : test_e2e :entering country name as ind
